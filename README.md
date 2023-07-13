@@ -10,7 +10,7 @@ Assign Dataset to df & first step is to clean the Dataset & applied EDA to the d
   4) Deaths against States
   5) Cases Found against each Day, month & Year.
   6) Deaths Happen against each day, month & Year.
-# Label Encoding Model Buuilding & Application of Machine Learning Algorithms For Prediction & Forecasting:
+# Label Encoding Model Building & Application of Machine Learning Algorithms For Prediction & Forecasting:
 Finding of R2_Score & Root Mean Square of model Using each of fallowing algorithm.
   1) Linear Regression Algorithm 
   2) Decision Tree Regressor
